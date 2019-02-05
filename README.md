@@ -1,6 +1,6 @@
-#Telium Coding Test
+# Telium Coding Test
 
-##Instruções Gerais
+## Instruções Gerais
 
 Neste teste serão avaliadas sua capacidade de compreensão, análise, interpretação e resolução do problema proposto abaixo. 
 
